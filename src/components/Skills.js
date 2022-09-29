@@ -3,9 +3,9 @@ import meter2 from "../assets/img/meter2.svg";
 import meter3 from "../assets/img/meter3.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import arrow1 from "https://imgur.com/a/8i1vs46";
-import arrow2 from "https://imgur.com/a/z27nSzu";
-import colorSharp from "../assets/img/color-sharp.png"
+import arrow1 from "https://i.imgur.com/YrOicEX.png";
+import arrow2 from "https://i.imgur.com/L9sMedX.png";
+import colorSharp from "https://i.imgur.com/2xEmKuo.png"
 
 export const Skills = () => {
   const responsive = {
