@@ -4,7 +4,7 @@ import meter3 from "../assets/img/meter3.svg";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "https://imgur.com/a/8i1vs46";
-import arrow2 from "../assets/img/arrow2.svg";
+import arrow2 from "https://imgur.com/a/z27nSzu";
 import colorSharp from "../assets/img/color-sharp.png"
 
 export const Skills = () => {
