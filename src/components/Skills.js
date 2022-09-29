@@ -38,19 +38,19 @@ export const Skills = () => {
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
+                                <img src="https://i.imgur.com/AtFx0ni.png" alt="Image" />
+                                <h5>Sysadmin</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
-                                <h5>Brand Identity</h5>
+                                <img src="https://i.imgur.com/NjezZsq.png" alt="Image" />
+                                <h5>Python Script</h5>
                             </div>
                             <div className="item">
-                                <img src="https://i.postimg.cc/pdcp3nfc/meter3.png" alt="Image" />
-                                <h5>Logo Design</h5>
+                                <img src="https://i.imgur.com/xRonR0q.png" alt="Image" />
+                                <h5>Bash Script</h5>
                             </div>
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src="https://i.imgur.com/AtFx0ni.png" alt="Image" />
                                 <h5>Web Development</h5>
                             </div>
                         </Carousel>
