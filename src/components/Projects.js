@@ -13,32 +13,32 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: "https://i.imgur.com/RtpNxrT.png",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: "https://i.imgur.com/3moaH61.png",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: "https://i.imgur.com/CrgAaCt.png",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: "https://i.imgur.com/RtpNxrT.png",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: "https://i.imgur.com/3moaH61.png",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: "https://i.imgur.com/CrgAaCt.png",
     },
   ];
 
